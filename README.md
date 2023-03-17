@@ -1,4 +1,4 @@
-# Web3 Resources on AWS
+# Web3 on AWS
 
 This repository contains a collection of Web3 resources on AWS.
 
