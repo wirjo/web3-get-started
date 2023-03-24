@@ -1,4 +1,4 @@
-# Web3 on AWS
+# Getting starte with Web3 on AWS
 
 This repository contains a collection of resources for building your web3 startup and applications on AWS.
 
