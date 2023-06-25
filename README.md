@@ -24,6 +24,8 @@ This repository contains a collection of resources for building your web3 startu
 
 * **[Workshop: Web3 Development on BNB Smart Chain (BSC)](https://catalog.workshops.aws/web3dev-bsc)** - A hands-on step-by-step workshop that will give you the practical and technical foundations to start your Web3 development journey on BNB Smart Chain. BNB Smart Chain is a blockchain network built by Binance that allows for faster and cheaper transactions than the Ethereum network.
 
+* **[Workshop: Web3 Development on Fantom](https://catalog.workshops.aws/web3dev-fantom)** - A hands-on step-by-step workshop that will give you the practical and technical foundations to start your Web3 development journey on Fantom. You will begin with learning how to create and interact with your wallet. Then, you will learn how to use several tools and concepts to create a Web3 fantasy game.
+
 ## Web3 Security: dapp Authentication
 
 * **[dApp authentication with Amazon Cognito and Web3 proxy with Amazon API Gateway](https://aws.amazon.com/blogs/architecture/dapp-authentication-with-amazon-cognito-and-web3-proxy-with-amazon-api-gateway/)**
