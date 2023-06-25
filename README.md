@@ -27,7 +27,6 @@ This repository contains a collection of resources for building your web3 startu
 ## Web3 Security: dapp Authentication
 
 * **[dApp authentication with Amazon Cognito and Web3 proxy with Amazon API Gateway](https://aws.amazon.com/blogs/architecture/dapp-authentication-with-amazon-cognito-and-web3-proxy-with-amazon-api-gateway/)**
-
 If your decentralized application (dApp) must interact directly with AWS services like Amazon S3 or Amazon API Gateway, you must authorize your users by granting them temporary AWS credentials. This solution uses Amazon Cognito in combination with your users’ digital wallet to obtain valid Amazon Cognito identities and temporary AWS credentials for your users. It also demonstrates how to use Amazon API Gateway to secure and proxy API calls to third-party Web3 APIs.
 
 ## Web3 Security: Secure Wallet and Key Management
