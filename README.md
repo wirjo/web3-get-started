@@ -24,6 +24,12 @@ This repository contains a collection of resources for building your web3 startu
 
 * **[Workshop: Web3 Development on BNB Smart Chain (BSC)](https://catalog.workshops.aws/web3dev-bsc)** - A hands-on step-by-step workshop that will give you the practical and technical foundations to start your Web3 development journey on BNB Smart Chain. BNB Smart Chain is a blockchain network built by Binance that allows for faster and cheaper transactions than the Ethereum network.
 
+## Web3 Security: dapp Authentication
+
+* **[dApp authentication with Amazon Cognito and Web3 proxy with Amazon API Gateway](https://aws.amazon.com/blogs/architecture/dapp-authentication-with-amazon-cognito-and-web3-proxy-with-amazon-api-gateway/)
+
+If your decentralized application (dApp) must interact directly with AWS services like Amazon S3 or Amazon API Gateway, you must authorize your users by granting them temporary AWS credentials. This solution uses Amazon Cognito in combination with your users’ digital wallet to obtain valid Amazon Cognito identities and temporary AWS credentials for your users. It also demonstrates how to use Amazon API Gateway to secure and proxy API calls to third-party Web3 APIs.
+
 ## Web3 Security: Secure Wallet and Key Management
 
 * **[Use Key Management Service (AWS KMS) to securely manage Ethereum accounts](https://aws.amazon.com/blogs/database/part1-use-aws-kms-to-securely-manage-ethereum-accounts/)** - The post explains how to use AWS Key Management Service (KMS) to securely manage Ethereum accounts, including storing, encrypting private keys, and signing transactions. 
